@@ -1,6 +1,5 @@
----
-layout: slide
-title: "Welcome to our second slide!"
----
-Your text
-Use the left arrow to go back!
+Line 1
+Hello World
+Git is amazing
+Line 4
+Line 5
